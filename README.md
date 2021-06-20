@@ -1,6 +1,5 @@
 ## ASCII-Art Streaming Platform
 
-BBM342 Operating Systems course, Second Project
 
 [Text based](http://www.asciimation.co.nz/) video streaming platform. This project consist of **multi-client/multi-channelled server** and **UI based client** applications. 
 
