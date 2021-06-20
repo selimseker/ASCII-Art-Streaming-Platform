@@ -6,8 +6,7 @@ BBM342 Operating Systems course, Second Project
 
 
 
-![architecture](/home/selim/Desktop/new_repos/ASCII-Art-Streaming-Platform/img/architecture.png)
-
+<img src="./img/architecture.png" alt="2" style="zoom:50%;" />
 
 
 ---
